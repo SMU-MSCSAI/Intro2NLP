@@ -132,7 +132,25 @@ class CorpusReader_TFIDF:
         else:
             return dot_product / (norm_new_doc * norm_existing_doc)
 
+    def query(self, words):
+        """Return a list of (document, cosine_sim) tuples that calculate the cosine similarity between
+        the 'new' document (specified by the list of words as the document) and each document in the corpus.
+        The list is ordered in decreasing order of cosine similarity.
+        """
+        # Calculate TF-IDF for the new document represented by the list of words
+        tfidf_new_doc = self.tfidfNew(words)
 
+        # Calculate cosine similarity between the new document and each document in the corpus
+        similarity_scores = []
+        for fileid in self.fileids():
+            cosine_similarity = self.cosine_sim(fileid, words)
+            similarity_scores.append((fileid, cosine_similarity))
+
+        # Sort the list by cosine similarity in decreasing order
+        similarity_scores.sort(key=lambda x: x[1], reverse=True)
+
+        return similarity_scores
+    
     ####### Helper methods #######
     # Use dynamic preproccessing instead of preproccessing the whole corpus we leave the original corpus untouched
     # and preproccess the words on the on each method call
@@ -205,5 +223,3 @@ class CorpusReader_TFIDF:
         except FileNotFoundError:
             print(f"Stopwords file {filename} not found.")
             return set()
-        
-
