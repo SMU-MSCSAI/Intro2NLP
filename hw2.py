@@ -1,18 +1,4 @@
-import gensim.downloader as g1
-from transformers import BertModel, BertTokenizer 
-import torch
-import numpy as np
-from nltk.corpus import wordnet as wn
-import random
-import pandas as pd
-import nltk
-from scipy.spatial.distance import cosine
-
-
-
-        
-nltk.download('wordnet')
-
+# More workflow are in the noteboook
 
 def synsetSimValue(model_wv, words):
     """
@@ -106,6 +92,7 @@ def genBERTVector(model, word, sentences):
     vectors = []
     for sentence in sentences:
         # Get BERT embeddings and tokenized sentence
+        # embeddings, tokenized_sentence = get_bert_embeddings(sentence, model)
 
         tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 
