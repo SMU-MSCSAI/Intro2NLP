@@ -1,0 +1,212 @@
+{
+    "narrative.n.01" : {
+        "narrative": [
+            "She gave a detailed narrative of her trip to Europe.",
+            "The narrative of the play was engaging and kept the audience captivated.",
+            "He provided a narrative of the events leading up to the accident.",
+            "The narrative of the documentary was informative and well-researched."
+        ], 
+        "narration":[
+            "She gave a detailed narration of her trip to Europe.",
+            "The narration of the play was engaging and kept the audience captivated.",
+            "He provided a narration of the events leading up to the accident.",
+            "The narration of the documentary was informative and well-researched."
+        ],
+        "story":[
+            "The story of the lost city captivated the archaeologists.",
+            "She told a story of adventure and intrigue to the children.",
+            "He wrote a story about a young detective solving a mysterious crime.",
+            "The story of the brave knight and the dragon was a favorite among the villagers."
+        ],
+        "tale":[
+            "The tale of the princess and the dragon was a favorite among children.",
+            "She told a tale of adventure and mystery to the group of campers.",
+            "He spun a tale of intrigue and suspense to keep the audience captivated.",
+            "The tale of the lost treasure was passed down through generations."
+        ]	
+    },
+    "package.n.01":{
+        "package":[
+            "She received a package in the mail from her friend.",
+            "He wrapped the gift in colorful package paper.",
+            "The package of cookies was a thoughtful gesture.",
+            "She sent a package of books to her niece."
+        ], 
+        "bundle":[
+            "She carried a bundle of firewood into the cabin.",
+            "He tied the bundle of newspapers with twine.",
+            "The bundle of clothes was donated to the local shelter.",
+            "She received a bundle of letters from her pen pal."
+        ],
+        "packet":[
+            "The packet of information was sent to all employees.",
+            "She received a packet of seeds in the mail.",
+            "He opened the packet of sugar and poured it into his coffee.",
+            "The packet of documents was delivered to the lawyer's office."
+        ]	,
+        "parcel":[
+            "The parcel of land was sold to a developer for a new housing project.",
+            "She received a parcel in the mail from her grandmother.",
+            "He sent a parcel of books to the school library.",
+            "The parcel of goods was delivered to the warehouse."
+        ]
+    },
+    "obscenity.n.02": {
+        "obscenity":[
+            "The obscenity of his language shocked the audience.",
+            "She was offended by the obscenity of the graffiti.",
+            "The obscenity of the joke made her uncomfortable.",
+            "He was reprimanded for the obscenity of his behavior."
+        ],
+        "smut":[
+            "The smut in the movie was censored for television.",
+            "She was disgusted by the smut in the magazine.",
+            "The smut in the book was considered inappropriate for children.",
+            "He was criticized for including smut in his comedy routine."
+        ],
+        "filth":[
+            "The filth of the language used in the movie was shocking.",
+            "She was appalled by the filth in the lyrics of the song.",
+            "The filth of the conversation made her uncomfortable.",
+            "He was disgusted by the filth on the streets of the city."
+        ],
+        "vulgarism":[
+            "The vulgarism in his speech offended many people.",
+            "She was taken aback by the vulgarism in the play.",
+            "The vulgarism of the joke made her cringe.",
+            "He was criticized for using vulgarism in his writing."
+        ]
+    },
+    "pass.n.09": {
+        "pass":[
+            "She showed her pass to the security guard.",
+            "He used his pass to enter the building.",
+            "The pass allowed them to board the plane.",
+            "She misplaced her pass and had to get a new one."
+        ],
+        "head":[
+            "He made a pass at her during the party.",
+            "She rejected his pass and walked away.",
+            "The pass was unwelcome and made her uncomfortable.",
+            "He regretted making the pass and apologized."
+        ],
+        "straits":[
+            "They were in dire straits and needed help.",
+            "She found herself in financial straits after losing her job.",
+            "The company was in financial straits and had to lay off employees.",
+            "He was in dire straits and had to ask for assistance."
+        ],
+        "crack":[
+            "He made a crack about her outfit and she was offended.",
+            "She laughed at his crack and appreciated his sense of humor.",
+            "The crack was meant to be lighthearted and not taken seriously.",
+            "He regretted making the crack and apologized."
+        ]
+
+    },
+    "wallet.n.01" :{
+        "wallet":[
+            "She kept her money and credit cards in her wallet.",
+            "He lost his wallet while traveling in Europe.",
+            "The wallet was found by a kind stranger and returned to its owner.",
+            "She bought a new wallet to replace the old one."
+        ],
+        "billfold":[
+            "He kept his money and identification in his billfold.",
+            "She lost her billfold and had to cancel her credit cards.",
+            "The billfold was found by a kind stranger and returned to its owner.",
+            "He bought a new billfold to replace the old one."
+        ],
+        "notecase":[
+            "She kept her money and identification in her notecase.",
+            "He lost his notecase while traveling in Europe.",
+            "The notecase was found by a kind stranger and returned to its owner.",
+            "She bought a new notecase to replace the old one."
+        ],
+        "pocketbook":[
+            "He kept his money and credit cards in his pocketbook.",
+            "She lost her pocketbook while traveling in Europe.",
+            "The pocketbook was found by a kind stranger and returned to its owner.",
+            "He bought a new pocketbook to replace the old one."
+        ]
+    },
+    "sled.n.01": {
+        "sled":[
+            "She rode the sled down the hill with her friends.",
+            "He built a snowman and placed it on the sled.",
+            "The sled was covered in snow after a day of sledding.",
+            "She pulled the sled up the hill for another ride."
+        ],
+        "sledge":[
+            "He used the sledge to break up the ice on the driveway.",
+            "She loaded the sledge with firewood for the fireplace.",
+            "The sledge was heavy and difficult to lift.",
+            "He swung the sledge to break apart the rocks."
+        ],
+        "sleigh":[
+            "She rode in the sleigh pulled by a team of horses.",
+            "He decorated the sleigh with garland and lights for the parade.",
+            "The sleigh was covered in snow after a ride through the forest.",
+            "She climbed into the sleigh and settled in for the journey."
+        ],
+        "toboggan":[
+            "He rode the toboggan down the hill with his friends.",
+            "She steered the toboggan through the twists and turns of the course.",
+            "The toboggan was fast and exhilarating as it sped down the slope.",
+            "He pulled the toboggan up the hill for another run."
+        ]
+    },
+    "craze.n.02": {
+        "craze":[
+            "The craze for fidget spinners swept the nation.",
+            "She was caught up in the craze for unicorn-themed products.",
+            "The craze for virtual reality games was growing in popularity.",
+            "He was skeptical of the craze for the latest diet fad."
+        ],
+        "delirium":[
+            "She was in a state of delirium after the concert.",
+            "He was overcome with delirium at the sight of his favorite band.",
+            "The delirium of the crowd was palpable as they waited for the show to start.",
+            "She felt a sense of delirium as she danced to the music."
+        ],
+        "frenzy":[
+            "The frenzy for tickets to the concert was overwhelming.",
+            "She was caught up in the frenzy for the latest fashion trend.",
+            "The frenzy of the crowd was deafening as they cheered for the team.",
+            "He felt a sense of frenzy as he rushed to finish his work."
+        ],
+        "fury":[
+            "She was in a state of fury after the argument.",
+            "He was overcome with fury at the injustice of the situation.",
+            "The fury of the storm was terrifying as it raged outside.",
+            "She felt a sense of fury as she confronted the person who wronged her."
+        ]
+        
+    },
+    "bobbin.n.01": {
+        "bobbin":[
+            "She wound the thread around the bobbin.",
+            "He used the bobbin to hold the yarn in place.",
+            "The bobbin was filled with colorful thread.",
+            "She replaced the empty bobbin with a new one."
+        ],
+        "spool":[
+            "The spool of thread was almost empty.",
+            "She wound the thread onto the spool.",
+            "The spool of wire was used in the electrical project.",
+            "He replaced the spool of ribbon with a new one."
+        ],
+        "reel":[
+            "She wound the fishing line onto the reel.",
+            "He used the reel to store the extension cord.",
+            "The reel of film was loaded into the camera.",
+            "She replaced the empty reel with a new one."
+        ],
+        "coil":[
+            "The coil of wire was used in the electrical project.",
+            "She wound the rope into a tight coil.",
+            "The coil of hose was stored in the shed.",
+            "He replaced the old coil with a new one."
+        ]
+    }
+}
